@@ -23,7 +23,7 @@
  
  <br>
  
-  ### Me acompanhe também no LinkedIn:
+  ### Me acompanhe também aqui:
  
 <div> 
   
