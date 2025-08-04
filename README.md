@@ -1,7 +1,8 @@
 # Olá, eu sou a Amanda Custódio!
 
 * 👩🏻‍💻 Desenvolvedora Full-Stack
-* 🎓 Graduada em Direito 
+* 🎓 Graduada em Direito
+* 🎓 Graduanda em Ciência de Dados - UNIVESP
 * 🧮 Estudante de Ciência e Análise de Dados na Awari
 * 📊 Power BI
 * ✉️ amandaccustodio@hotmail.com
